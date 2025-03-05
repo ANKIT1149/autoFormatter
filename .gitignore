@@ -3,4 +3,7 @@ dist
 node_modules
 .vscode-test/
 *.vsix
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> 9096045ec0ec5c3d307f1f38120438746de3d740

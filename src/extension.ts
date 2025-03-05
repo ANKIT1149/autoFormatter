@@ -332,3 +332,4 @@ class Sidebar implements vscode.WebviewViewProvider {
 
   }
 }
+
